@@ -1,0 +1,28 @@
+{
+  "name": "Bazar-PIQ",
+  "short_name": "Bazar-PIQ",
+  "description": "Aplicación de Mercado Local",
+  "start_url": "https://script.google.com/macros/s/AKfycbyKF3Mx9QY_LKzAjnJnBJMxacqGQoHeJ3MwLgzXjcIYggFFBCqe-E4kIHbqE6NxnYCTxQ/exec",
+  "id": "bazarpiq-app",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#1e6fdc",
+  "scope": "/",
+  "categories": ["shopping", "business"],
+  "icons": [
+    {
+      "src": "https://quinielas580.github.io/bazarpiq-pwa/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://quinielas580.github.io/bazarpiq-pwa/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "lang": "es-MX"
+}
