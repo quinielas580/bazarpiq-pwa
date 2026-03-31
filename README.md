@@ -1,0 +1,2 @@
+# bazarpiq-pwa
+bazar
